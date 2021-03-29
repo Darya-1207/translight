@@ -365,6 +365,7 @@ a{
     }
     .footer {
         background-color: #005BC1;
+        margin-top: 80px;
     }
     
     .footer-top {
@@ -372,7 +373,7 @@ a{
         justify-content: space-between;
         align-items: center;
         border-bottom: 1px solid #fff;
-        padding-top: 20px;
+        padding-top: 40px;
     }
     
     .footer-top p:first-child {
